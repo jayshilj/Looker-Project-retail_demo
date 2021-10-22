@@ -27,7 +27,7 @@ As a group VP or regional manager, quickly identify the group's overall performa
 
 <img alt="Store Deep Dive - Product impact" src="https://github.com/looker/block-retail/blob/master/screenshots/store_deep_dive_2.png?raw=true">
 
-
+<!-- 
 <img alt="Basket Analysis - Bundle promotion" src="https://github.com/looker/block-retail/blob/master/screenshots/item_affinity_1.png?raw=true">
 
-<img alt="Basket Analysis - Product rationalisation" src="https://github.com/looker/block-retail/blob/master/screenshots/item_affinity_2.png?raw=true">
+<img alt="Basket Analysis - Product rationalisation" src="https://github.com/looker/block-retail/blob/master/screenshots/item_affinity_2.png?raw=true"> -->
